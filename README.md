@@ -22,6 +22,7 @@ To run this application locally, follow these steps:
 - When you open the application in your browser, you will see a form prompting you to enter your name.
 - Enter your name in the text field and click the "GREET" button.
 - You will then be greeted with a message saying "Hi [Your Name], great to see you!".
+![Screenshots](https://github.com/SankritaPatel/SayHelloFlask/blob/main/wireframe.png)
 
 ## Features
 
